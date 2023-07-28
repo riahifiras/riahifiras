@@ -5,7 +5,7 @@
 
 
 - 📫 How to reach me **firas.riahi@ensi-uma.tn**
-- check my personal profile [https://riahifiras.github.io/personal-portfolio/]
+- check my personal portfolio [https://riahifiras.github.io/personal-portfolio/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
